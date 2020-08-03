@@ -80,13 +80,13 @@ h1 {
 .h1-animated
 {
   display: block;
-  animation: moveInLeft 0.5s ease-out;
+  animation: moveInLeft 1s ease-out;
 }
 
 .h2-animated
 {
   display: block;
-  animation: moveInRight 0.5s ease-out;
+  animation: moveInRight 1s ease-out;
   font-size: 1.5rem;
 }
 
